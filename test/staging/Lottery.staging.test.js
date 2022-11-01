@@ -1,5 +1,3 @@
-// 16.17.08
-
 const { assert } = require("chai")
 const { ethers, getNamedAccounts, network } = require("hardhat")
 const { developmentChainIDs } = require("../../helper-hardhat-config")
